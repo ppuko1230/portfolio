@@ -51,9 +51,7 @@ Unityで制作した2Dジャンプアクション。
 ---
 
 ## 📬 Contact
-- **Name**: 中村貴房
-- **Email**: （メールアドレス）
-- **LinkedIn**: （リンクを挿入）
-- **Portfolio Website**: （あればリンク）
+- **Name**: 中村隆英
+- **Email**: ppukonepiece@icloud.com
 
 ---
